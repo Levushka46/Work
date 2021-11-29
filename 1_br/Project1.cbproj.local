@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.626,D:\Cursovaia\Project1.cbproj=D:\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,D:\Cursovaia\Unit1.dfm=D:\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,D:\Cursovaia\Project1PCH1.h=D:\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,=D:\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,D:\Cursovaia\Unit1.cpp=D:\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,D:\Cursovaia\Unit1.h=D:\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,=D:\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

@@ -1,0 +1,74 @@
+.dws
+{
+position: sticky;
+top: 2px;
+}
+.uxod
+{
+	margin-left: 300px;
+	padding: 25px;
+}
+.logintext
+{
+font-family: Times New Roman, sans-serif;
+font-size: 22px;
+color: white;
+border: 2px solid #ffffff;	
+margin-top: 10px;
+padding:5px;	
+width: 200px;
+}
+.maintext
+{
+border: 2px solid #000000;	
+margin-top: 10px;
+padding:5px;
+width: 1800px;
+}
+.secondtext
+{
+border: 2px solid #871717;
+font-size: 18px;	
+margin-bottom: 10px;
+width: 1800px;
+padding:5px;
+}
+.text3
+{
+border: 2px solid #871717;
+width: 1800px;
+font-size: 22px;
+padding:5px;
+}
+.pic
+{
+	padding: 25px;
+}
+.butt
+{
+	border: 3px solid #218294;
+	background-color: #218294;
+	font-size: 30px;
+	color: #fcfcfc;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 50px;
+	height: 25px;
+	text-align: center;
+	font-family: Times New Roman, sans-serif;
+	margin: 5px;
+}
+.abouttext
+{
+border: 2px solid #871717;
+margin-top: 10px;
+padding:5px;
+width: 1800px;	
+}
+.knopkaotpr
+{
+margin-top: 5px;
+border: 1px solid #000000;		
+width: 120px;
+height: 28px;
+}

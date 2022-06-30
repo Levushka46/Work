@@ -1,0 +1,8 @@
+rd #5
+out 0x70
+rd #2
+out 0x71
+rd #65
+out 0x70
+rd #00
+out 0x71
